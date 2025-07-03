@@ -1,6 +1,0 @@
-pytest
-numpy
-matplotlib
-ipykernel
-notebook
-pandas
